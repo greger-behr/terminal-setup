@@ -1,16 +1,4 @@
-# Dependencies
+# Ignore node_modules
 node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Build
-dist/
-build/
-
-# IDEs
-.vscode/
-.idea/
-
-# OS
-.DS_Store
+# Ignore log files
+*.log
